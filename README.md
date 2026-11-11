@@ -44,18 +44,14 @@ Tools
 
 Featured Projects
 
-Project                            Description                               Technologies 
-IT Helpdesk System                 A platform for managing                   React, Node.js, PostgreSQL        
-                                   IT support tickets.
+IT Helpdesk System: A platform for managing IT support tickets. React, Node.js, PostgreSQL
 
-Student Productivity Planner       An application for managing academic      React, TypeScript, PostgreSQL
-                                   tasks and deadlines.
+Student Productivity Planner: An application for managing academic tasks and deadlines. React, TypeScript, PostgreSQL
 
-Developer Portfolio                A website showcasing my development       React, Tailwind CSS
-                                   journey and projects.
-
+Developer Portfolio: A website showcasing my development journey and projects. React, Tailwind CSS
 
 _More projects coming soon..._
+
 
 Currently Exploring:
 
