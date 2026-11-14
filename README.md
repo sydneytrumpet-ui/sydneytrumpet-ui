@@ -76,8 +76,6 @@ I'm always interested in learning, collaborating and exploring new ideas.
 - GitHub: [https://github.com/c-xilongo-dev]
 - LinkedIn: [https://www.linkedin.com/in/chuma-xilongo/]
 
-_Learning, building and improving one project at a time._
-
 
 <p align="center">
   <i>Building, learning and improving one project at a time.</i>
