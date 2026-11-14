@@ -19,67 +19,54 @@ About Me:
 🎯 Working towards becoming a well-rounded software engineer
 
 
-⚙️ Technologies & Tools:
+🛠️Technologies and Tools:
 
-Languages & Development
+Languages 
+- JavaScript
+- TypeScript
+- Python
+- C#
+- C++
+- Java
+
+Frontend
+- HTML5
+- CSS3
+- React
+- Tailwind CSS
+
+Backend and Databases 
+- Node.js
+- Express.js
+- MySQL
+- PostgreSQL
+
+Tools
+- Git and GitHub
+- Visual Studio
+- VS Code
+- Android Studio
+- Docker
 
 
+🚀Featured Projects
+
+- IT Helpdesk System: A platform for managing IT support tickets. React, Node.js, PostgreSQL
+
+- Student Productivity Planner: An application for managing academic tasks and deadlines. React, TypeScript, PostgreSQL
+
+- Developer Portfolio: A website showcasing my development journey and projects. React, Tailwind CSS
+
+_More projects coming soon..._
 
 
+🔭Currently Exploring:
 
-
-Frameworks & Libraries
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-🚀 Featured Projects
-
-Here are some of the projects I'm working on and developing.
-
-Project
-
-Description
-
-Technologies
-
-My Portfolio
-
-A personal portfolio showcasing my development journey and projects.
-
-React, Vite, Tailwind CSS
-
-JavaScript To-Do App
-
-A task management application exploring JavaScript fundamentals and DOM manipulation.
-
-HTML, CSS, JavaScript
-
-Python Experiments
-
-Small projects and exercises exploring Python programming.
-
-Python
-
-🎯 Current Focus
-
-Strengthening my programming fundamentals.
-
-Developing full stack applications.
-
-Exploring cloud computing and AWS services.
-
-Learning modern development workflows.
-
-Building projects that solve practical problems.
+- REST API development
+- Database architecture
+- Authentication and application security
+- Software testing
+- Cloud Computing and deployment
 
 
 🤝 Let's Connect
