@@ -51,11 +51,14 @@ Tools
 
 ## 🚀Featured Projects
 
-- IT Helpdesk System: A platform for managing IT support tickets. React, Node.js, PostgreSQL
+- IT Helpdesk System: A platform for managing IT support tickets.
+- Languages: React, Node.js, PostgreSQL
 
-- Student Productivity Planner: An application for managing academic tasks and deadlines. React, TypeScript, PostgreSQL
+- Student Productivity Planner: An application for managing academic tasks and deadlines.
+- Languages: React, TypeScript, PostgreSQL
 
-- Developer Portfolio: A website showcasing my development journey and projects. React, Tailwind CSS
+- Developer Portfolio: A website showcasing my development journey and projects.
+- Languages: React, Tailwind CSS
 
 _More projects coming soon..._
 
