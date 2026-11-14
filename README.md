@@ -1,69 +1,98 @@
-Hi I'm Unam Chuma Xilongo
+👋 Hi, I'm Unam Chuma Xilongo
 
-Software Developer/Engineer | Full-Stack Developer
-
-I am a student passionate about software engineering, technology and building practical applications. I am currently 
-developing my skills in Full-Stack Development and working on projects that solve real-world problems.
-
-About me:
-
-- Currently studying Information Technology
-- Interested in Full-Stack Development
-- Currently learning React, TypeScript, Node.js and PostgreSQL
-- Exploring software architecture, databases and cloud computing
-- Working towards becoming a well-rounded Software Engineer
-
-Technologies and Tools:
-
-Languages 
-- JavaScript
-- TypeScript
-- Python
-- C#
-- C++
-- Java
-
-Frontend
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
-
-Backend and Databases 
-- Node.js
-- Express.js
-- MySQL
-- PostgreSQL
-
-Tools
-- Git and GitHub
-- Visual Studio
-- VS Code
-- Android Studio
-- Docker
-
-Featured Projects
-
-- IT Helpdesk System: A platform for managing IT support tickets. React, Node.js, PostgreSQL
-
-- Student Productivity Planner: An application for managing academic tasks and deadlines. React, TypeScript, PostgreSQL
-
-- Developer Portfolio: A website showcasing my development journey and projects. React, Tailwind CSS
-
-_More projects coming soon..._
+Software Engineer | Full Stack Development
 
 
-Currently Exploring:
+I'm a Software Engineer exploring the world of full stack development, cloud computing and modern application development. I enjoy turning ideas into practical applications, experimenting with new technologies and continuously improving my development skills.
 
-- REST API development
-- Database architecture
-- Authentication and application security
-- Software testing
-- Cloud Computing and deployment
 
-Connect With Me:
+About Me:
+
+💻 Exploring software architecture, databases and cloud computing
+
+🌱 Continuously learning new programming languages and technologies
+
+☁️ Currently learning React, Node.js, Typescript and PostgreSQL
+
+🛠️ Building practical applications and personal projects
+
+🎯 Working towards becoming a well-rounded software engineer
+
+
+⚙️ Technologies & Tools:
+
+Languages & Development
+
+
+
+
+
+
+Frameworks & Libraries
+
+
+
+
+
+Tools & Platforms
+
+
+
+
+
+
+🚀 Featured Projects
+
+Here are some of the projects I'm working on and developing.
+
+Project
+
+Description
+
+Technologies
+
+My Portfolio
+
+A personal portfolio showcasing my development journey and projects.
+
+React, Vite, Tailwind CSS
+
+JavaScript To-Do App
+
+A task management application exploring JavaScript fundamentals and DOM manipulation.
+
+HTML, CSS, JavaScript
+
+Python Experiments
+
+Small projects and exercises exploring Python programming.
+
+Python
+
+🎯 Current Focus
+
+Strengthening my programming fundamentals.
+
+Developing full stack applications.
+
+Exploring cloud computing and AWS services.
+
+Learning modern development workflows.
+
+Building projects that solve practical problems.
+
+
+🤝 Let's Connect
+
+I'm always interested in learning, collaborating and exploring new ideas.
 
 - GitHub: [https://github.com/c-xilongo-dev]
 - LinkedIn: [https://www.linkedin.com/in/chuma-xilongo/]
 
 _Learning, building and improving one project at a time._
+
+
+<p align="center">
+  <i>Building, learning and improving one project at a time.</i>
+  <br/>
+  <img src="https://img.shields.io/badge/Keep_Building-67E8F9?style=flat-square&logoColor=black" />
