@@ -1,12 +1,12 @@
 👋 Hi, I'm Unam Chuma Xilongo
 
-Software Engineer | Full Stack Development
+## Software Engineer | Full Stack Development
 
 
 I'm a Software Engineer exploring the world of full stack development, cloud computing and modern application development. I enjoy turning ideas into practical applications, experimenting with new technologies and continuously improving my development skills.
 
 
-About Me:
+## About Me:
 
 💻 Exploring software architecture, databases and cloud computing
 
@@ -19,7 +19,7 @@ About Me:
 🎯 Working towards becoming a well-rounded software engineer
 
 
-🛠️Technologies and Tools:
+## 🛠️Technologies and Tools:
 
 Languages 
 - JavaScript
@@ -49,7 +49,7 @@ Tools
 - Docker
 
 
-🚀Featured Projects
+## 🚀Featured Projects
 
 - IT Helpdesk System: A platform for managing IT support tickets. React, Node.js, PostgreSQL
 
@@ -60,7 +60,7 @@ Tools
 _More projects coming soon..._
 
 
-🔭Currently Exploring:
+## 🔭Currently Exploring:
 
 - REST API development
 - Database architecture
@@ -69,7 +69,7 @@ _More projects coming soon..._
 - Cloud Computing and deployment
 
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating and exploring new ideas.
 
