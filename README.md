@@ -1,4 +1,6 @@
-Hi I'm Unam Chuma Xilongo, Software Developer/Engineer | Full-Stack Developer
+Hi I'm Unam Chuma Xilongo
+
+Software Developer/Engineer | Full-Stack Developer
 
 I am a student passionate about software engineering, technology and building practical applications. I am currently 
 developing my skills in Full-Stack Development and working on projects that solve real-world problems.
